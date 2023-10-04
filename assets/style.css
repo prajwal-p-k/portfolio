@@ -1,0 +1,117 @@
+/** { 
+  border: 1px solid red;
+}
+*/
+body {
+  /* Margin bottom by footer height */
+  background-image: url("../images/ep_naturalwhite.png");
+  margin-bottom: 60px;
+  height:100%;
+  width:100%;
+}
+
+
+h2 h1{
+	margin-top: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+h2{
+	color: #4aaaa5;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+/*.b1{
+  border: 3px solid red;
+  height: 300px;
+}
+
+.sb1{
+  border: 3px solid green;
+}
+
+.sb2{
+  border: 3px solid green;
+}<---test----->*/
+
+
+.name{
+	background-color: #4aaaa5;
+  	font-size: 24px;
+  	column-width: 200px;
+  	height: 52px;
+  	color: white;
+  	text-align: center;
+  	position: absolute;
+  	font-weight: bold;
+}
+
+.main{
+	margin-top: 50px;
+	
+}
+
+.aboutme{
+	border: 3px solid #C0C0C0;
+	margin-top: 50px;
+	background-color: white;
+}
+
+.header{
+  margin-top: 20px;
+
+}
+
+.panel{
+	background-color: white;
+  width: 250px;
+  height: 200px;
+  margin-top: 100px;
+  border: 3px solid #C0C0C0;
+}
+
+.contactme{
+text-align: center;
+margin-top: 40px;
+}
+
+.footer{
+ /* position: absolute;*/
+  color:#ffffff;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: #666666;
+  padding-top: 15px;
+  text-align: center;
+  margin-top: 50px;
+ /* margin-bottom: 0px;*/
+}
+.btn{
+  background-color: #4aaaa5;
+  color:#ffffff;
+}
+
+.image{
+  position: relative;
+  margin-left: 30px;
+}
+
+.label
+{
+  position: absolute;
+  height: 10px;
+  width: 150px;
+  bottom: 25px;
+  text-align: center;
+  background-color: #4aaaa5;
+  color: white;
+  padding: 20px 0;
+}
+
+.header1{
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
